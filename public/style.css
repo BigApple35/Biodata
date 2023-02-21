@@ -1,0 +1,58 @@
+.biodata{
+    background-color: rgb(160, 144, 232);
+    width: 25%;
+    height: 100%;
+    position: absolute;
+    box-shadow: -30px 2px 26px 38px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -30px 2px 26px 38px rgba(0,0,0,0.75);
+    -moz-box-shadow: -30px 2px 26px 38px rgba(0,0,0,0.75);
+}
+body{
+    margin: 0%;
+}
+.profile-image{
+    height: 35%;
+    width: 80%;
+    position: relative;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -40%;
+    top: 15%;
+}
+.nama{
+    position: relative;
+    top: 20%;
+    text-align: center;
+}
+.detailed-info{
+    position:absolute;
+    width: 75%;
+    height: 20px;
+    right: 0px;
+}
+.riwayat-sekolah{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: rgba(0,0,0,0.50);
+}
+h3{
+    margin-left: 40px;
+    margin-bottom: 0%;
+}
+
+p{
+    margin-left: 40px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+hr{
+    margin-left: 40px;
+    margin-top: 0px;
+    width: 94%;
+
+}
+.profil-umum{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: rgba(0,0,0,0.50);
+}
