@@ -1,14 +1,17 @@
 {
-  "name": "biodata",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "Tugas Biodata untuk DPK",
-  "main": "./public/index.js",
+  "description": "",
+  "main": "public/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Daris Nur Rahmat (X RPL 1)",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "@types/node": "^18.0.6",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6"
   }
 }
